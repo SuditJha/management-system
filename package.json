@@ -1,0 +1,24 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "A backend for admin of a library management system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuditJha/management-system.git"
+  },
+  "keywords": [
+    "College-project",
+    "Personal-project",
+    "backend-development"
+  ],
+  "author": "Sudit Kumar Jha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuditJha/management-system/issues"
+  },
+  "homepage": "https://github.com/SuditJha/management-system#readme"
+}
