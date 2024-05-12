@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "A backend for admin of a library management system.",
   "main": "index.js",
+  "type":"module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/SuditJha/management-system/issues"
   },
-  "homepage": "https://github.com/SuditJha/management-system#readme"
+  "homepage": "https://github.com/SuditJha/management-system#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
