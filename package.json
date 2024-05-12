@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A backend for admin of a library management system.",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "dev": "nodemon src/index.js"
   },
@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/SuditJha/management-system#readme",
   "devDependencies": {
-    "nodemon": "^3.1.0"
+    "nodemon": "^3.1.0",
+    "prettier": "^3.2.5"
   }
 }
